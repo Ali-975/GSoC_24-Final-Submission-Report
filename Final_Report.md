@@ -35,7 +35,7 @@ The main goal was to replace the current hacky methods of handling GDS files in 
 
 ## Work Done
 
-Throughout this project, I focused on implementing the `gdsin` and `gdsout` classes, which required a deep understanding of both the OpenDB structure and the GDS-II format. These classes were designed to read and write GDS files directly within OpenROAD, eliminating the previous dependency on external tools. The integration was carefully reviewed and tested to ensure it met the project's standards and objectives.
+Throughout this project, the team focused on implementing the `gdsin` and `gdsout` classes, which required a deep understanding of both the OpenDB structure and the GDS-II format. These classes were designed to read and write GDS files directly within OpenROAD, eliminating the previous dependency on external tools. The integration was carefully reviewed and tested to ensure it met the project's standards and objectives.
 
 ## What’s Left to Do
 
