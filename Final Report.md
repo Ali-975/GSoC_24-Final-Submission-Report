@@ -41,7 +41,6 @@ Throughout this project, I focused on implementing the `gdsin` and `gdsout` clas
 
 The main implementation tasks have been completed. The remaining work involves:
 - Comprehensive testing of the GDS reader/writer to ensure it handles all potential edge cases and operates reliably under various conditions.
-- Updating the GUI source code to reflect the changes and ensure that the new GDS functionality is fully integrated into the user interface.
 
 ## Acknowledgments
 
