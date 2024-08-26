@@ -1,9 +1,9 @@
 # Final Report
 
 **Student**: Muddassir Ali  
-**Mentor**: Mehdi Saligane  
-**Project**: GDS Reader/Writer Implementation in OpenROAD  
-**Organization**: Chips Alliance
+**Mentor**: [Mehdi Saligane](https://github.com/msaligane)  
+**Project**: [GDS Reader/Writer Implementation in OpenROAD](https://github.com/chipsalliance/ideas/blob/main/gsoc-2024-ideas.md#create-a-gds-readerwriter-in-openroad)  
+**Organization**: [Chips Alliance](https://github.com/chipsalliance)
 
 ---
 
@@ -44,7 +44,7 @@ The main implementation tasks have been completed. The remaining work involves:
 
 ## Acknowledgments
 
-I would like to extend my gratitude to my mentor, Mehdi Saligane, for his invaluable guidance throughout this project. Special thanks also to Barry Lyu and Matt Liberty, whose cooperation and support were instrumental in the successful completion of this project.
+I would like to extend my gratitude to my mentor, [Mehdi Saligane](https://github.com/msaligane), for his invaluable guidance throughout this project. Special thanks also to [Barry Lyu](https://github.com/fangzhonglyu) and [Matt Liberty](https://github.com/maliberty), whose cooperation and support were instrumental in the successful completion of this project.
 
 ## Conclusion
 
